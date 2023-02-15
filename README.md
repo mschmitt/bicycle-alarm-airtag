@@ -27,6 +27,7 @@ Notes:
 Links:
 
 - [Github](https://github.com/mschmitt/bicycle-alarm-airtag)
+- [Printables](https://www.printables.com/de/model/399618-bicycle-alarm-and-airtag-case)
 - [Thingiverse](https://www.thingiverse.com/thing:5842363)
 
 ![](pics/IMG_0991.JPG)
